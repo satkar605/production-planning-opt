@@ -1,6 +1,4 @@
-Thanks for providing the full business context from the textbook. Based on this, here’s a **revised `README.md`** that includes a **clear business-focused description**, a **succinct problem narrative**, and the **solution approach**, all while preserving your project's structure and keeping it portfolio-ready.
 
----
 
 ```markdown
 # 🏭 Production Planning Optimization with AMPL and Python
