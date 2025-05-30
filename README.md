@@ -122,7 +122,7 @@ This project models a **common scenario in manufacturing and supply chain**: opt
 
 **Satkar Karki**
 MS Business Analytics · University of South Dakota
-[LinkedIn](https://www.linkedin.com/in/satkarkarki/) · [GitHub](https://github.com/satkar605)
+[LinkedIn](https://www.linkedin.com/in/ksatkar) · [GitHub](https://github.com/satkar605)
 
 ---
 
